@@ -39,3 +39,5 @@ Column 1|Column 2|Column 3
 Info 1  |Info 2  |Info 3
 Info 4  |Info 5  |Info 6
 Info 7  |Info 8  |__Info 9__
+
+![projet_image](./coding.jpg "projet image")
